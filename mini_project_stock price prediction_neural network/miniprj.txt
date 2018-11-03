@@ -1,0 +1,39 @@
+
+
+frtn top25 
+Period(5y): Dec 07, 2012 - Dec 07, 2017
+
+Wal-Mart Stores, Inc. (WMT)
+Berkshire Hathaway Inc. (BRK-A)
+Apple Inc. (AAPL)
+Exxon Mobil Corporation (XOM)
+McKesson Corporation (MCK)
+UnitedHealth Group Incorporated (UNH)
+CVS Health Corporation (CVS)
+General Motors Company (GM)
+AT&T (T.SW)
+Ford Motor Company (F)
+AmerisourceBergen Corporation (ABC)
+Amazon.com, Inc. (AMZN)
+General Electric Company (GE)
+Verizon Communications Inc. (VZ)
+Cardinal Health, Inc. (CAH)
+Costco Wholesale Corporation (COST)
+Walgreens Boots Alliance, Inc. (WBA)
+The Kroger Co. (KR)
+Chevron Corporation (CVX)
+Federal National Mortgage Association (FNMA)
+JPMorgan Chase & Co. (JPM)
+Express Scripts Holding Company (ESRX)
+The Home Depot, Inc. (HD)
+The Boeing Company (BA)
+Wells Fargo & Company (WFC)
+
+
+
+
+
+
+
+
+

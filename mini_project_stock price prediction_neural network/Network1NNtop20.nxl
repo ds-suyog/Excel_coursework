@@ -1,0 +1,151 @@
+Original file path: C:\Users\dbda\temp\frt tp 20 5y - Copy.xlsx
+Spreadsheet name: frt tp20 5y trn
+Number of inputs: 6
+Inputs range: 'frt tp20 5y trn'!A2:F21992
+Number of outputs: 1
+Outputs range: 'frt tp20 5y trn'!G2:G21992
+Epochs: 263
+Weight delta:  0.0000009
+Scale input and output values: Yes
+Initial weights: 0.3
+Learning rate: 0.3
+Momentum: 0.6
+Neurons in hidden layer (0=default): 0
+Activation function: Zero-based Log-Sigmoid
+*********
+ 41249	 .25	 .01	 .26	 .26	 0
+ 42916	 266390	 263261	 266013	 266013	 616620500
+ .26
+ 266445
+layers: 2 6 14 1
+funcs: 3
+layer 0: 6 14
+neuron 0: 7
+syn 0: 1.308098
+syn 1: 0.961404
+syn 2: 0.900390
+syn 3: 0.861585
+syn 4: 1.017866
+syn 5: 0.067962
+syn 6: -0.197882
+neuron 1: 7
+syn 0: -0.152708
+syn 1: -0.227581
+syn 2: -0.170778
+syn 3: -0.187820
+syn 4: -0.281911
+syn 5: 0.082613
+syn 6: -0.076264
+neuron 2: 7
+syn 0: 0.002644
+syn 1: -0.996440
+syn 2: -0.870298
+syn 3: -1.039345
+syn 4: -1.001313
+syn 5: -0.056880
+syn 6: 0.220006
+neuron 3: 7
+syn 0: -0.041546
+syn 1: -0.059582
+syn 2: -0.028136
+syn 3: -0.105608
+syn 4: -0.032659
+syn 5: -0.016954
+syn 6: 0.106171
+neuron 4: 7
+syn 0: 0.000249
+syn 1: -1.018678
+syn 2: -0.748514
+syn 3: -0.778774
+syn 4: -0.924062
+syn 5: 0.199567
+syn 6: 0.006515
+neuron 5: 7
+syn 0: 3.537569
+syn 1: 1.800274
+syn 2: 1.697860
+syn 3: 1.764966
+syn 4: 1.789319
+syn 5: 0.676793
+syn 6: -2.196086
+neuron 6: 7
+syn 0: -0.297242
+syn 1: -0.499953
+syn 2: -0.326609
+syn 3: -0.387518
+syn 4: -0.382048
+syn 5: 0.123743
+syn 6: 0.090275
+neuron 7: 7
+syn 0: 0.174643
+syn 1: -1.065038
+syn 2: -1.176113
+syn 3: -1.164851
+syn 4: -1.110100
+syn 5: 0.071953
+syn 6: 0.143583
+neuron 8: 7
+syn 0: -0.010986
+syn 1: -0.663733
+syn 2: -0.623008
+syn 3: -0.810496
+syn 4: -0.792238
+syn 5: -0.013602
+syn 6: 0.101763
+neuron 9: 7
+syn 0: 1.437251
+syn 1: 0.854929
+syn 2: 0.859716
+syn 3: 0.743301
+syn 4: 0.982707
+syn 5: 0.020800
+syn 6: -0.372174
+neuron 10: 7
+syn 0: 0.227471
+syn 1: -1.198096
+syn 2: -1.067158
+syn 3: -1.255981
+syn 4: -1.259230
+syn 5: -0.006521
+syn 6: -0.167036
+neuron 11: 7
+syn 0: 0.013117
+syn 1: -0.966841
+syn 2: -0.794849
+syn 3: -0.971829
+syn 4: -0.896170
+syn 5: -0.065924
+syn 6: 0.149705
+neuron 12: 7
+syn 0: 0.278453
+syn 1: 0.101375
+syn 2: 0.233982
+syn 3: 0.213964
+syn 4: 0.225721
+syn 5: -0.020038
+syn 6: -0.083359
+neuron 13: 7
+syn 0: 0.120662
+syn 1: -1.249556
+syn 2: -0.916512
+syn 3: -1.079681
+syn 4: -0.927894
+syn 5: 0.172618
+syn 6: 0.056727
+layer 1: 14 1
+neuron 0: 15
+syn 0: -0.144198
+syn 1: -0.247519
+syn 2: -0.784278
+syn 3: -0.067276
+syn 4: -0.731465
+syn 5: 0.723339
+syn 6: -0.453568
+syn 7: -0.818015
+syn 8: -0.597967
+syn 9: -0.047798
+syn 10: -0.855295
+syn 11: -0.719784
+syn 12: 0.277699
+syn 13: -0.794762
+syn 14: -0.005954
